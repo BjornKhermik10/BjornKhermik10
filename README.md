@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+check out my portfolio at:
+https://bjornkhermik10.github.io/Portfolio/
 <!--
 **BjornKhermik10/BjornKhermik10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
